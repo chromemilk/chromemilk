@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chromemilk
 - 👀 I’m interested in reverse engineering, pen testing, robotics engineering/programming, math
 - 🌱 I’m currently learning game hacking with C++
-- 💞️ I’m looking to collaborate on NoResolve.cc CSGO chea
+- 💞️ I’m looking to collaborate on NoResolve.cc CSGO cheat
 - 📫 How to reach me (dont)
 - 😄 Pronouns: (not important)
 - ⚡ Fun fact: I have won multiple C++ programming comps ranging from local to international
